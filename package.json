@@ -12,10 +12,6 @@
   "scripts": {
     "start": "node src/app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/akshayks3/weather-app/tree/master"
-  },
   "author": "",
   "license": "ISC"
 }
